@@ -1,0 +1,10 @@
+#Python program to add two numbers asking number from user
+print("This Program is to calculate the sum of three numbers")
+num1 = int(input("Input the first value: "))
+num2 = int(input("Input the second value: "))
+num3 = int(input("Input the third value: "))
+print("Your inputed value are " + str(num1) + ", " + str(num2) + " & " + str(num3))
+sum = num3+num2+num1
+print("Your total is " + str(sum))
+
+
